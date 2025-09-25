@@ -7,8 +7,8 @@ A dynamic blog layout built with React and styled using Tailwind CSS, bootstrapp
 
 ## Installation
 ```bash
-git clone https://github.com/MominRazaexp/ew_repo.git
-cd ew_repo
+git clone https://github.com/MominRazaexp/NEW_REPO.git
+cd NEW_REPO
 npm install
 ```
 
